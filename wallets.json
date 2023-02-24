@@ -1,0 +1,17 @@
+{
+    "wallets": [
+        {
+            "name": "MainWallet",
+            "addresses": [
+                "9fbKrErwdJzzrsb7UVoEfpSEUmKRzV468idoCXH7J4rB89WNmGb",
+                "9h8iBQ6iXQvdYptFAjzHGPALtuXDwmiJYpwjayjoVJGU7uHUfHS"
+            ]
+        },
+        {
+            "name": "MyOtherWallet",
+            "addresses": [
+                "9fEve3o9ZCE5RsqR9tcLfx6BBWq3axSmvE3tPdpbfBPmAhkcxVM"
+            ]
+        }
+    ]
+}
